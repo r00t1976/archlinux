@@ -1,1 +1,2 @@
 hola  desde arch linux
+aca el segundo texto para ver como funciona esto este es el segundo cambio a este documento
